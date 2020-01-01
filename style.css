@@ -1,5 +1,6 @@
 body {
-	font: 'Raleway', sans-serif;
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    font: 'Roboto Medium';
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
@@ -18,7 +19,7 @@ h1 {
 }
 
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
+	font: 900 1em 'Roboto', sans-serif;
     color: rgb(2, 2, 2);
     text-align: center;
     text-transform: none;
